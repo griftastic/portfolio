@@ -1,0 +1,56 @@
+header {
+    width: 100vw;
+    height: 4rem;
+    padding-top: .5rem; 
+    padding-right: calc(5vw - 0.5rem);
+    padding-bottom: .5rem;
+    padding-left: calc(5vw - 0.5rem);
+    margin: 0 0 0 0;
+    display: flex;
+    justify-content: space-between;
+    /* align-content: center; */
+    border-bottom: solid #FC7A57 .3rem;
+    background-color: #090809;
+}
+
+header a {
+    padding: .5rem .5rem .5rem .5rem;
+}
+.HomeButton {
+    /* width: 10rem; */
+    display: block;
+    margin: 0.75rem auto 0px auto;
+    /* justify-content: flex-start; */
+    /* padding-top: 1.5rem; */
+    /* padding-left: 4rem;
+    padding-bottom: 1rem; */
+
+    font-weight: 900; 
+    /* padding-bottom: 2.5rem; */
+}
+
+.MainNav {
+    /* width: rem; */
+    display: flex;
+    /* justify-items: flex-end; */
+    /* padding-left: 9rem; */
+    /* padding-top: 1.5rem; */
+    /* padding-left: 3rem; */
+    font-weight: 300;
+    gap: 30px;
+    /* padding-bottom: .5rem; */
+}
+
+a {
+    /* display: flex; */
+    white-space: nowrap;
+    height: 1rem;
+    color: #FFFFFF;
+    font-family: 'Lato', sans-serif;
+    font-size: 1rem;    
+    text-align: center;
+}
+
+a:link{
+    text-decoration: none;
+}
