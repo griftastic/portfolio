@@ -1,4 +1,4 @@
-@media screen and (max-width: 720px) {
+/* @media screen and (max-width: 720px) {
     header {
         width: 101vw;
         height: 6rem;
@@ -13,22 +13,22 @@
     .HomeButton {
         margin-top: 1rem;
         /* padding-bottom: 1.5rem; */
-        margin-left: 0rem;
+        /* margin-left: 0rem;
         padding-left: 0rem;
         display: flex;
         justify-content: center;
-    }
+    } */
 
-    .MainNav {
+    /* .MainNav {
         padding-bottom: 2rem;
         /* justify-content: center; */
-        justify-content: center;
+        /* justify-content: center;
         padding-right: 0rem;
         padding-left: 0rem;
-    }
+    } */
 
-    a {
+    /* a {
         font-size: 1rem;
     }
-}
+} */
 
