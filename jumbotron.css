@@ -1,0 +1,20 @@
+.space {
+    width: 100vw;
+}
+
+.box {
+    width: 30vw;
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    background-color: #090809;
+    opacity: .5;
+}
+
+.title1 {
+    color: white;
+    top: 50%;
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    
+}
