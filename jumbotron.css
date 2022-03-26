@@ -1,20 +1,33 @@
-.space {
+.jumbotron {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(./assets/vincentiu-solomon-ln5drpv_ImI-unsplash.jpg);
+    background-size: cover;
+    height: 100vh;
     width: 100vw;
 }
 
 .box {
-    width: 30vw;
-    height: 20vh;
+    width: 25rem;
+    /* height: 10vw; */
     display: flex;
     justify-content: center;
-    background-color: #090809;
-    opacity: .5;
+    flex-direction: column;
+    background-color: rgb(9, 8, 9, .5);
 }
 
 .title1 {
     color: white;
-    top: 50%;
     font-family: 'Lato', sans-serif;
+    font-size: 2rem;
     text-align: center;
     
+}
+
+.title2 {
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-size: 1.25rem;
+    text-align: center;
 }
