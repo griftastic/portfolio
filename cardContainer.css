@@ -1,0 +1,18 @@
+.cardContainer {
+    background-color: #321646;
+}
+
+.allCards {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 2rem;
+    align-items: center;
+}
+
+.card {
+    width: 25vw;
+    height: 40vh;
+    background-color: #F49C88;
+    box-shadow: black 7px 7px 7px;
+}
