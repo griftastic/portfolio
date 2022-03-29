@@ -1,3 +1,25 @@
 .aboutMeContainer {
     background-color: #793889;
 }
+
+.bioBox {
+    width: 80vw;
+    height: 100%;
+    background-color: #F49C88;
+    box-shadow: black 5px 5px 5px;
+    font-size: 20px;
+    text-align:justify;
+    text-justify:inter-word;
+}
+
+.bioContainer {
+display: flex;
+justify-content: center;
+align-content: center;
+width: 100vw;
+}
+
+.bioBox p {
+    margin: 20px 20px 20px 20px;
+    padding: 5px 5px 5px 5px;
+}
